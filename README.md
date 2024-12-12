@@ -2,15 +2,17 @@
 
 Analysis of Insurance Data within the USA accross 5 States for a 3 Month Period.
 
-The Aim was to analyse raw data by cleaning and transforming raw the insurance data and thereafter developing features and finally dashboarding for Insights.
+The purpose aimed to analyse raw insurance data by cleaning and transforming the data and thereafter developing features and finally developing dashboard insights.
 
 The completed project consists of : 
+
 
 Provided:
 
 I - Feature-Engineering-Workshop [.ipynb]
 
 II - insurance_claims [.csv]
+
 
 Completed work
 
